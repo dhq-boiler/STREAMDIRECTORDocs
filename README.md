@@ -10,6 +10,24 @@ STREAM DIRECTORには以下の特徴があります。
 
 STREAM DIRECTOR has the following features.
 
+バージョン 3.0 / Version 3.0
+
+* ファイル入出力機能を実装しました。右クリックから「ファイル入力オブジェクト」「ファイル出力オブジェクト」をそれぞれ選択して、オブジェクトを配置できます。入力にはWAV、MP3、AAC形式、出力にはWAV、AAC形式をサポートしています。
+
+  File input/output functionality has been implemented. Right-click to select either the “File Input Object” or “File Output Object” to place the object. Input supports WAV, MP3, and AAC formats, while output supports WAV and AAC formats.
+
+* イコライザを無効化しました。（将来的に再度有効化させる予定です）
+
+  The equalizer has been disabled. (Plans are in place to re-enable it in the future.)
+
+* 他、いくつかの改善。
+
+  Other improvements.
+
+バージョン 2.0 / Version 2.0
+
+* イコライザを実装しました。
+
 バージョン 1.0 / Version 1.0
 
 * サウンド入力デバイスをダイアグラム上に列挙します
@@ -54,6 +72,6 @@ If you have any problems, questions, or anything to do with adding features to t
 
 # 著作権表記 / Copyright
 
-Copyright ©dhq_boiler 2024.
+Copyright ©dhq_boiler 2024-2025.
 
 All rights reserved.
