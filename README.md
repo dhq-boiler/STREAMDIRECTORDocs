@@ -10,6 +10,18 @@ STREAM DIRECTORには以下の特徴があります。
 
 STREAM DIRECTOR has the following features.
 
+バージョン 3.0.3 / Version 3.0.3
+
+* ファイル入力オブジェクトの波形表示コントロールで「先頭への巻き戻し」ボタンと「末尾への早送り」ボタンが正しく機能していない問題を修正しました。
+
+  Fixed an issue where the “Rewind to Start” and “Fast Forward to End” buttons in the waveform display control of the file input object were not functioning correctly.
+
+バージョン 3.0.2 / Version 3.0.2
+
+* デバイス入力、およびプロセス入力オブジェクトをソースにした時に正しく音声が流れないバグを修正しました。
+
+  Fixed a bug where audio did not play correctly when using device input or process input objects as the source.
+
 バージョン 3.0 / Version 3.0
 
 * ファイル入出力機能を実装しました。右クリックから「ファイル入力オブジェクト」「ファイル出力オブジェクト」をそれぞれ選択して、オブジェクトを配置できます。入力にはWAV、MP3、AAC形式、出力にはWAV、AAC形式をサポートしています。
